@@ -90,5 +90,5 @@ Trong trường hợp bạn muốn đóng góp cho kho tài liệu, vui lòng li
 ### Khu vực tài liệu từ các nguồn khác
 
 * Nếu bạn có hứng thú với các môn **chuyên ngành Mạng máy tính**, hoặc muốn tìm thêm các nguồn tài liệu đại cương, cơ sở ngành khác
-	* Bạn có thể xem tài liệu ở branch **vnuhcm-itus** [**TẠI ĐÂY**](https://github.com/anthony2708/projects_v2). Repository này cũng là của một sinh viên khóa 2019 như mình.
+	* Bạn có thể xem tài liệu ở branch **vnuhcm-itus** [**TẠI ĐÂY**](https://github.com/anthony2708/projects_v2). Repository này cũng là của một sinh viên khóa 2019 như mình, có các tài liệu chuyên về Linux cho bạn nhé.
 	* Nếu gặp khó khăn để chuyển sang branch đã nêu, bạn có thể truy cập trực tiếp [**TẠI ĐÂY**](https://github.com/anthony2708/projects_v2/tree/vnuhcm-itus)
