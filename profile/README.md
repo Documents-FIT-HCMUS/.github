@@ -30,7 +30,7 @@
 
 Trong trường hợp bạn muốn đóng góp cho kho tài liệu, vui lòng liên hệ bằng những đường liên kết đến mạng xã hội, Facebook cá nhân, LinkedIn của mình ngay bên dưới tên của Organization nhé.
 
-## Khu vực tài liệu
+## Khu vực tài nguyên
 
 ### Khu vực dành cho người không thuộc các ngành Công nghệ Thông tin
 
@@ -59,6 +59,8 @@ Trong trường hợp bạn muốn đóng góp cho kho tài liệu, vui lòng li
 	* Toán rời rạc
 
 ### Khu vực dành cho người thuộc các ngành Công nghệ Thông tin
+
+* Bao gồm các môn bên trên nhé.
 
 * Danh sách các môn **cơ sở ngành**
 	* Nhập môn lập trình
