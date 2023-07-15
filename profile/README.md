@@ -7,28 +7,21 @@
 * Chào mừng các bạn đến với nơi lưu trữ tài liệu của các môn học thuộc khoa Công nghệ Thông tin, trường Đại học Khoa học Tự nhiên, ĐHQG-HCM.
 * Đây là một GitHub Organization hoàn toàn tự lập, chứa **tất cả** các tài liệu mà mình đã lưu trữ trong suốt 4 năm học Đại học.
 * Mục tiêu chính là để lại tài liệu, giúp các bạn khóa sau trong quá trình học tập tại trường.
-* Châm ngôn của chúng ta chỉ có một chữ, đó là **SHARE**. Hãy chia sẻ những tài liệu mà bạn có, đóng góp thêm các môn học mới, đồng thời giới thiệu nơi này đến với bạn bè rộng rãi nhé.
 
 ### Những môn bạn sẽ tìm được ở đây
 
 * Mình lưu trữ các môn học **đại cương, cơ sở ngành, và chuyên ngành** của khoa Công nghệ Thông tin.
 * Do là một sinh viên chuyên ngành **Kỹ thuật phần mềm (Software Engineering)**, hiện tại mình chỉ có thể lưu trữ các môn thuộc chuyên ngành của mình.
 * Vì vậy, nếu bạn đến để tìm các môn thuộc những chuyên ngành như Khoa học máy tính, Khoa học dữ liệu, Hệ thống thông tin, Công nghệ tri thức, An toàn thông tin, và Thị giác máy tính, thì mình rất tiếc là **hiện tại chưa có** các môn của những chuyên ngành nào khác ngoài Kỹ thuật phần mềm.
-* Có lẽ trong tương lai sẽ có người đóng góp, hoặc **chính bạn** sẽ trở thành những người đóng góp đó.
+* Có lẽ trong tương lai sẽ có người nào đó đóng góp, có thể là **chính bạn**.
 * Ngoài ra, những môn học mình lưu là của **Khóa 2019**. Do đó, có thể đến lúc bạn học, nó sẽ khác đôi chút. Đối với các môn **chuyên ngành**, thì giáo viên chỉ có một người dạy, nên sẽ không thay đổi nhiều.
 
 ### Những tài liệu mà mình sẽ lưu trữ cho các môn
 
-* **Slides** được cung cấp từ giảng viên.
 * Các tài liệu và sách đọc thêm.
-* **Record** các buổi học online (chỉ khả dụng với một số môn học nhất định)
 * Bài tập tại lớp và bài tập về nhà (đề và bài giải)
 * Các bài tập nhóm, bài thuyết trình, **đồ án môn học**.
 * Tài liệu ôn thi cuối kỳ, **đề thi** các năm trước.
-
-### Làm thế nào để đóng góp cho kho tài liệu này?
-
-Trong trường hợp bạn muốn đóng góp cho kho tài liệu, vui lòng liên hệ bằng những đường liên kết đến mạng xã hội, Facebook cá nhân, LinkedIn của mình ngay bên dưới tên của Organization nhé.
 
 ## Khu vực tài nguyên
 
