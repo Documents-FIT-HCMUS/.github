@@ -87,3 +87,9 @@
 * Nếu bạn có hứng thú với các môn **chuyên ngành Mạng máy tính**, hoặc muốn tìm thêm các nguồn tài liệu đại cương, cơ sở ngành khác
 	* Bạn có thể xem tài liệu ở branch **vnuhcm-itus** [**TẠI ĐÂY**](https://github.com/anthony2708/projects_v2). Repository này cũng là của một sinh viên khóa 2019 như mình, có các tài liệu độc quyền chuyên về Linux cho bạn nhé.
 	* Nếu gặp khó khăn để chuyển sang branch đã nêu, bạn có thể truy cập trực tiếp [**TẠI ĐÂY**](https://github.com/anthony2708/projects_v2/tree/vnuhcm-itus)
+
+
+## Các vấn đề về bản quyền
+Toàn bộ bản quyền của tất cả nội dung được cung cấp đều thuộc về Khoa Công nghệ thông tin, Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Thành phố Hồ Chí Minh. Do đó, **NGHIÊM CẤM TUYỆT ĐỐI** các hành vi *sao chép, phân phối, tái bản, sử dụng phục vụ mục đích kinh doan* mà không được sự đồng ý của Khoa Công nghệ thông tin, Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Thành phố Hồ Chí Minh.
+
+Một số nội dung chỉ được cung cấp giới hạn hoặc không được cung cấp vì lý do bản quyền và các vấn đề liên quan đến Luật Sở hữu Trí tuệ. Bất kỳ tranh chấp về bản quyền đều sẽ được giải quyết theo đúng quy định của pháp luật hiện hành. Nội dung có thể được yêu cầu dừng cung cấp mà không được báo trước từ đơn vị nắm giữ bản quyền. Bên phân phối sẽ nghiêm túc tuân thủ yêu cầu dừng cung cấp nếu có yêu cầu và sẽ không chịu trách nhiệm trước người xem về bất kỳ thiệt hại nào phát sinh từ việc dừng cung cấp các nội dung đó.
